@@ -16,7 +16,7 @@ Here is a start to some brainstorming topics. We can organise these into differe
 - Markdown + editors
 - Latex + editors
 - Word
-- OpenOffice
+- OpenOffice / LibreOffice
 - Pandoc and file conversion
 - other writing set-ups for longer documents
 
@@ -26,6 +26,11 @@ Here is a start to some brainstorming topics. We can organise these into differe
 - Github
 - GitLab
 - ...
+
+## Presentations
+- Powerpoint
+- OpenOffice / LibreOffice
+- Reveal.js
 
 
 # Software/Programming
@@ -44,10 +49,19 @@ Here is a start to some brainstorming topics. We can organise these into differe
 - ...
 
 ## R
--
 
 ## Java
 
+## JavaScript Libraries
+- OpenLayers
+- Leaflet
+- D3.js
+- ...
+
+## JavaScript Frameworks
+- Ember
+- Angular
+- ...
 
 ## Databases
 
@@ -85,6 +99,17 @@ ESRI specific software and docs.
 ## eCognition
 
 ## Docker
+
+## Web
+
+- buying your own domain
+- Wordpress
+- Hugo
+
+## Commandline
+- linux, windows, mac
+
+## Linux Basics
 
 
 # Spatial Analysis
