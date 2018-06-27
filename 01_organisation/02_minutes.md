@@ -1,4 +1,5 @@
 This is a running list of minutes from organisational meetings and decisions, with most recent on top, and older minutes on the bottom. The idea is that this will eventually be much more collaborative with many people participating, so here, things can be documented for all to read. People's abbreviations should be documented and kept up to date in the file ```./01_organsation/01_people.md```
+
 ---
 
 # 27.06.2018
