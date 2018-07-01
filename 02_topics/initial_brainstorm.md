@@ -19,6 +19,7 @@ Here is a start to some brainstorming topics. We can organise these into differe
 - OpenOffice / LibreOffice
 - Pandoc and file conversion
 - other writing set-ups for longer documents
+- [Spinx](http://www.sphinx-doc.org/en/master/) - documentation generator
 
 ## Documentation Frameworks and Tools
 - Open Science Framework
@@ -61,7 +62,9 @@ Here is a start to some brainstorming topics. We can organise these into differe
 ## JavaScript Frameworks
 - Ember
 - Angular
-- ...
+- React
+- Vue
+- Ext JS / GeoExt
 
 ## Databases
 
@@ -70,6 +73,10 @@ Here is a start to some brainstorming topics. We can organise these into differe
 ### Oracle
 
 ### PostgreSQL
+
+- PostGIS
+- pgRouting
+
 
 ## Jupyter Notebooks
 - for Python, R and more
@@ -135,3 +142,16 @@ Theory, algorithms, etc. independent of software and programming language
 - common applications
 
 ## Object-based Image Analysis
+
+
+# Open Data
+
+## OpenStreetMap
+
+- data structure
+- community
+- software
+- applications
+- route planning
+
+## Wiki Data
