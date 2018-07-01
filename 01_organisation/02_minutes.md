@@ -4,6 +4,6 @@ This is a running list of minutes from organisational meetings and decisions, wi
 
 # 27.06.2018
 
-HA and JK decide to create a repository to start collecting ideas. Discussions with other students and faculty at the University of Salzburg's Z_GIS about the possibility of regular, informal skillsharing is happening.
+HA and JM decide to create a repository to start collecting ideas. Discussions with other students and faculty at the University of Salzburg's Z_GIS about the possibility of regular, informal skillsharing is happening.
 
 It seems that the first workshop will take place in autumn 2018.

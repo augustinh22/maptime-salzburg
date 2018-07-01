@@ -5,7 +5,7 @@ This is a list of people, associated abbreviation, affiliation and contact info,
 Name  | Abbreviation  | Affiliation  | Contact
 --|---|---|--
 Hannah Augustin  | HA  | Uni Salzburg  | hannah.augustin@stud.sbg.ac.at
-Jakob Miksch  | JK  |   |  
+Jakob Miksch  | JM  | Uni Salzburg  |  jakob  DOT miksch ÄT posteo DOT eu
   |   |   |  
   |   |   |  
   |   |   |  
