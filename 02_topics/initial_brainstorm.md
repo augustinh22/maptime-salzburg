@@ -3,10 +3,11 @@ Here is a start to some brainstorming topics. We can organise these into differe
 # Academia/Scientific Research
 
 ## Citation/Reference Management Software
-- Zotero
+- [Zotero](https://www.zotero.org/)
 - Citavi
 - Endnote
 - Mendeley
+- [CiteULike](http://www.citeulike.org/)
 - ...
 
 ## Writing Ecosystems
@@ -17,21 +18,48 @@ Here is a start to some brainstorming topics. We can organise these into differe
 - Latex + editors
 - Word
 - OpenOffice / LibreOffice
-- Pandoc and file conversion
+- [Pandoc](http://pandoc.org/) and file conversion
 - other writing set-ups for longer documents
 - [Spinx](http://www.sphinx-doc.org/en/master/) - documentation generator
 
 ## Documentation Frameworks and Tools
-- Open Science Framework
-- Zenodo
+- [Open Science Framework](https://osf.io/)
+- [Zenodo](http://about.zenodo.org/)
 - Github
-- GitLab
+- [GitLab](https://gitlab.com)
 - ...
 
 ## Presentations
 - Powerpoint
 - OpenOffice / LibreOffice
-- Reveal.js
+- [Reveal.js](https://github.com/hakimel/reveal.js/)
+
+## Existing Conferences
+
+create a running list of relevant repeating conferences/events (academic and otherwise), find people who have been, talk about what it was like, get people to go together, go through existing online materials/presentations from past events, if available...
+
+- FOSS4G (annual; EN)
+  - [2018 in Dar es Saalam, Tanzania 27.08-02.09](https://2018.foss4g.org/)
+- FOSS4G Europe (annual; EN)
+  - [2018 in Guimarães, Portugal 16-21.07](https://foss4g.org/2018)
+- FOSSGIS (annual; DE)
+  - [2019 in Dresden, Germany 13-16.03](https://www.fossgis-konferenz.de/2019/)
+- GIScience (biannual?; EN)
+  - [10th in Melbourne, Australia, from 28-31.08.2018](http://www.giscience.org/))
+- GEOBIA (biannual; EN)
+  - [2018 in Montpellier, France 18-22.06](https://www.geobia2018.com/)
+- IGARRS (annual; EN)
+  - [2018 in Valencia, Spain 22-27.07](https://www.igarss2018.org/)
+  
+## Existing Summer Schools
+
+- ESA EO Summer School (biannual?; EN)
+  - [2018 in Frascati(Rome), Italy 30.07-10.08](http://eoscience4society.esa.int/EOSS18/index.php)
+    - 2 weeks
+    - PhD and young researchers
+    - school has no cost, but must cover own travel and accommodation
+    - no financial support
+    - limited to 60 participants, highly competative
 
 
 # Software/Programming
@@ -44,7 +72,7 @@ Here is a start to some brainstorming topics. We can organise these into differe
 - ...
 
 ## Python
-- Anaconda environments
+- [Anaconda](https://docs.anaconda.com/anaconda/) environments
 - GDAL bindings
 - Scipy, Numpy, etc.
 - ...
@@ -93,9 +121,12 @@ ESRI specific software and docs.
 
 ## QGIS
 
+- [2.x](https://qgis.org/en/docs/index.html#218)
+- [3.x](https://qgis.org/en/docs/index.html#testing)
+
 ## GRASS GIS
 
-- GRASS tutorial (https://github.com/veroandreo/grass_workshop_itc)
+- [GRASS](https://grass.osgeo.org/) tutorial (https://github.com/veroandreo/grass_workshop_itc)
 - TGRASS tutorial (https://github.com/veroandreo/tgrass_workshop_foss4g_eu)
 
 
