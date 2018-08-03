@@ -28,6 +28,7 @@ Here is a start to some brainstorming topics. We can organise these into differe
 - Github
 - [GitLab](https://gitlab.com)
 - [Hypothesis](https://web.hypothes.is/)
+- [Stencila](https://stenci.la/)
 - ...
 
 ## Presentations
@@ -51,6 +52,8 @@ create a running list of relevant repeating conferences/events (academic and oth
   - [2018 in Montpellier, France 18-22.06](https://www.geobia2018.com/)
 - IGARRS (annual; EN)
   - [2018 in Valencia, Spain 22-27.07](https://www.igarss2018.org/)
+-INQUIMUS (annual; EN)
+  - [2018 in Venice, Italy 3-5.12](http://www.inquimus.org/)
   
 ## Existing Summer Schools
 
@@ -158,8 +161,10 @@ Theory, algorithms, etc. independent of software and programming language
 # Earth Observation
 Theory, algorithms, etc. independent of software and programming language
 
-## Data acquisition
+## Data acquisition/browsers
 - different sensors and hubs
+
+- [EO Browser](https://apps.sentinel-hub.com/eo-browser/)
 
 ## Radar data
 - types of data
@@ -176,6 +181,8 @@ Theory, algorithms, etc. independent of software and programming language
 ## Object-based Image Analysis
 
 
+
+
 # Open Data
 
 ## OpenStreetMap
@@ -187,3 +194,8 @@ Theory, algorithms, etc. independent of software and programming language
 - route planning
 
 ## Wiki Data
+
+# Geovisualisation/Cartography
+
+- [GeoStyler](https://terrestris.github.io/geostyler/)
+- [Color Brewer 2](http://colorbrewer2.org/)
