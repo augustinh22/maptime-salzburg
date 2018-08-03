@@ -27,6 +27,7 @@ Here is a start to some brainstorming topics. We can organise these into differe
 - [Zenodo](http://about.zenodo.org/)
 - Github
 - [GitLab](https://gitlab.com)
+- [Hypothesis](https://web.hypothes.is/)
 - ...
 
 ## Presentations
