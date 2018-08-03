@@ -52,9 +52,10 @@ create a running list of relevant repeating conferences/events (academic and oth
   - [2018 in Montpellier, France 18-22.06](https://www.geobia2018.com/)
 - IGARRS (annual; EN)
   - [2018 in Valencia, Spain 22-27.07](https://www.igarss2018.org/)
--INQUIMUS (annual; EN)
+- INQUIMUS (annual; EN)
   - [2018 in Venice, Italy 3-5.12](http://www.inquimus.org/)
   
+ 
 ## Existing Summer Schools
 
 - ESA EO Summer School (biannual?; EN)
