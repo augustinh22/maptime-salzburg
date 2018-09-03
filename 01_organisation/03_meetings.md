@@ -13,16 +13,20 @@ AH, JM, EW, NJ and PE are meeting will meet in a pizzeria in Salzburg. The preli
 * communication:
   * mailing list or any chat
 * publicity:
+  * create official Email account
   * we will probably have the website [maptime.io/Salzburg](maptime.io/Salzburg)
   * we already own the Twitter account [twitter.com/maptimesalzburg](https://twitter.com/maptimeSalzburg)
   * we could also create an account on [Mastodon](https://mastodon.technology/)
   * logo: we need a logo, we can probably reuse the existing maptime logo
-* advertisment: we should announce our meetup on various channels:
-   * University: students and employees from all institutes (Z_GIS, Geography, Computer Science, Math, Geology, History, Polical Science...)
+* advertisement: we should announce our meetup on various channels:
+   * University: students and employees from all institutes (Z_GIS, Geography, Computer Science, Math, Geology, History, Political Science...)
    * companies
    * other meetups
    * OpenStreetMap Community
    * Makerspaces, Hackerspaces
+* registration
+   * via [meetup.com](https://www.meetup.com/) ?
+   * per Mail
 * support, sponsoring:
    * we could ask other companies for supporting our meetup
 * program of the meetup:
