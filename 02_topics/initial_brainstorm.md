@@ -65,7 +65,9 @@ create a running list of relevant repeating conferences/events (academic and oth
     - school has no cost, but must cover own travel and accommodation
     - no financial support
     - limited to 60 participants, highly competative
-
+ 
+ - Spatial Simulation Winter School
+   - https://spatial-simulation.zgis.at/winter-school/
 
 # Software/Programming
 
