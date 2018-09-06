@@ -6,9 +6,9 @@ Name  | Abbreviation  | Affiliation  | Contact
 --|---|---|--
 Hannah Augustin  | HA  | Uni Salzburg  | hannah DOT augustin ÄT stud DOT sbg DOT ac DOT at
 Jakob Miksch  | JM  | Uni Salzburg  |  jakob DOT miksch ÄT posteo DOT eu
-  |   |   |  
-  |   |   |  
-  |   |   |  
+Eva W.  | EW |   |  
+Niko J.  | NJ |   |  
+Petra E.  | PE |   |  
   |   |   |  
   |   |   |  
   |   |   |  
