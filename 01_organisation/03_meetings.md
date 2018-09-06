@@ -4,7 +4,7 @@ This ought to contain a schedule of planned meetings/workshops and general topic
 
 # 2018-09-05T1800
 
-AH, JM, EW, NJ and PE are meeting will meet in a pizzeria in Salzburg. The preliminary topics will be:
+HA, JM, EW, NJ and PE are meeting will meet in a pizzeria in Salzburg. The preliminary topics will be:
 
 * size of the room:
   * the offered room by Trafficon only has space for maximum 15 people
