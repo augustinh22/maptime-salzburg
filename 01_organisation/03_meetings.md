@@ -17,7 +17,7 @@ Beverages will be available and sponsored by our generous host, TraffiCon. Pleas
 
 Afterwards we will head to [Trumerei](http://www.trumerei.at/) for a drink and discussion.
 
-Note: physical accessibility of the space for presentations is currently unknown.
+Note: physical accessibility of the space for presentations is currently unknown (e.g. stairs, elevators...)
 
 
 # 2018-09-05T1800
