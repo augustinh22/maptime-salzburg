@@ -10,8 +10,11 @@ _Location:_ [TraffiCon Salzburg](https://www.trafficon.eu/), Strubergasse 26
 
 _Language:_ English preferred
 
-_Presentations_
-* TBA
+_Presentations_:
+* Jakob Miksch: **Introduction to OpenStreetMap**
+     A general overview how to edit, store, view, download and process OSM data.
+* Nikolai Janakiev: **Data Science with OpenStreetMap**
+* Sebastian Gatscha: **Route Planning with OpenStreetMap**
 
 Beverages will be available and sponsored by our generous host, TraffiCon. Please RSVP so that we can make sure there is room for everyone!
 
