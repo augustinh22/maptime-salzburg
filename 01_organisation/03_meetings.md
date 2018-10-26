@@ -1,6 +1,14 @@
 This ought to contain a schedule of planned meetings/workshops and general topics. It is meant to serve as an easy overview, with actual topic related content and discussion documented under specific topics, to allow a culmination of knowledge and skillsharing, and any organisational stuff documented independent of content in the minutes.
 
 ---
+# 2018-11-13T1800
+
+_Location:_ [Trumerei](http://www.trumerei.at/)
+
+18:00 in front of Trumerei -- StreetComplete activity
+
+19:00 Stammtisch
+
 
 # 2018-10-09T1900
 
