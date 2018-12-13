@@ -1,0 +1,1 @@
+This folder contains the jupyter notebook that was the basis for the GDAL introduction presentation at the December 2018 maptime Salzburg event at the iDEAS:lab. The actual slides generated from the jupyter notebook and used for the presentation are available at: http://slides.hannahaugustin.at/maptime/GDAL_intro
