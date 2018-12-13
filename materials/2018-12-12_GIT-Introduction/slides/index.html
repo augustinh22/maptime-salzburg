@@ -1,0 +1,358 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/league.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- some additional CSS for the GIT-Intro talk -->
+		<link rel="stylesheet" href="css/additional.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<H1>GIT-Introduction</H1>
+
+					<h3>maptime salzburg (2018-12-12)</h3>
+
+					<h5><a href="https://github.com/grmpfhmbl" target="_blank">Steffen Reichel
+							<img class="addimg" data-src="images/GitHub-Mark-Light-32px.png" alt="Link to GitHub profile.">
+						</a>
+					</h5>
+				</section>
+				<section>
+					<h3>What this talk is not</h3>
+					<p class="fragment fade-in">
+						a comprehensive tour through all the details and intricacies of GIT
+					</p>
+					<p class="fragment fade-in">
+						a replacement for the documentation
+					</p>
+					<p class="fragment fade-in">
+						"command-line-fu"
+					</p>
+				</section>
+				<section>
+					<h3>What this talk is</h3>
+					<p class="fragment fade-in">an overview of the most important ideas behind Git.</p>
+					<p class="fragment fade-in">an explanation what GitHub, GitLab etc. add</p>
+					<p class="fragment fade-in">a basic example on how to contribute to projects</p>
+					<p class="fragment fade-in">an extended version of <a href="https://guides.github.com/activities/hello-world">GitHub Hello World</a></p>
+				</section>
+				<section>
+					<h3>More help and documentation</h3>
+					<p>GitHub Guides (<a href="https://guides.github.com/" target="_blank">https://guides.github.com/</a>)
+						are a fantastic resource with a lot of examples, guides, and further links.
+					</p>
+					<p>
+						GitHub Help (<a href="https://help.github.com/" target="_blank">https://help.github.com/</a>)
+						has all the GitHub details.
+					</p>
+					<p>
+						All the details about Git can be found at
+						<a style="white-space: nowrap" href="https://git-scm.com/doc">https://git-scm.com/doc</a>
+					</p>
+				</section>
+				
+				<section>
+					<section>
+						<h3>How versions are usually managed</h3>
+						<p class="fragement fade-in">
+							<img class="addimg" src="images/00-misc/2015-02-09B-thedoghousediaries.com_5964.png">
+							<small class="reference"><a href="http://thedoghousediaries.com/5964">http://thedoghousediaries.com/5964</a></small>
+						</p>
+					</section>
+
+					<section>
+						<h3>Wouldn't version control be nice?</h3>
+						<img class="addimg" src="images/00-misc/Git_snapshots.png">
+						<small class="reference"><a href="https://git-scm.com/book/en/v2/Getting-Started-Git-Basics">https://git-scm.com/book/en/v2/Getting-Started-Git-Basics</a></small>
+					</section>
+
+					<section>
+						<h3>With parallel timelines!</h3>
+						<img class="addimg" src="images/00-misc/timelines.png">
+					</section>
+
+					<section>
+						<img class="addimg" src="images/00-misc/takemymoney.jpg">
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<h3>Git</h3>
+						<p class="fragment fade-in">Keeps track of "snapshots" of a "folder"
+							<small>It does this one thing and that is does well!</small>
+						</p>
+						<p class="fragment fade-in"><b>Branches!</b> Multiple histories in parallel.</p>
+						<p class="fragment fade-in">Everything is <b>local</b>!</p>
+						<p class="fragment fade-in"><b>Distributed!</b> Everybody has their own copy of the repository.</p>
+					</section>
+
+					<section>
+						<h3>other Revision / Version control systems</h3>
+						<p>There are other revision control systems to manage history of files.</p>
+						<ul>
+							<li class="fragment fade-in">Subversion (SVN)</li>
+							<li class="fragment fade-in">Concurrent Versions System (CVS)</li>
+							<li class="fragment fade-in">ClearCase</li>
+							<li class="fragment fade-in">Mercurial</li>
+							<li class="fragment fade-in">...</li>
+						</ul>
+					</section>
+
+					<section>
+						<h3>Most important concepts</h3>
+						<p class="fragment fade-in">Repository: A collection of files and their history, that usually make up one project.
+							Can be local or remote.</p>
+						<p class="fragment fade-in">Commit: Saving a "snapshot" of the current state of all the files.</p>
+						<p class="fragment fade-in">Checkout: Restore a "snapshot" to your working directory.</p>
+						<p class="fragment fade-in">Push / Pull: Copying local changes to a remote repository and vice versa.</p>
+						<p class="fragment fade-in">Branch / merge: Split / merge the timeline.</p>
+					</section>
+
+					<section>
+						<img class="addimg" src="images/00-misc/440px-Git_operations.svg.png">
+					</section>
+
+					<section>
+						<h3>The basic workflow</h3>
+						<img class="addimg" src="images/00-misc/branching.png">
+						<small class="reference"><a href="https://guides.github.com/activities/hello-world/branching.png">https://guides.github.com/activities/hello-world/branching.png</a></small>
+					</section>
+
+					<section>
+						<h3>The .git folder.</h3>
+						<p>That's where all the magic happens! DO NOT TOUCH!</p>
+						<img src="images/00-misc/Git-Folder.png">
+					</section>
+				</section>
+
+                <section>
+                    <section><h2>So what does the Hub/Lab do?!</h2></section>
+                    <section>
+						<h3>Website</h3>
+						<img src="images/00-misc/gitx_01.png">
+					</section>
+                    <section>
+						<h3>Bug / Issue tracker</h3>
+						<img src="images/00-misc/gitx_02.png">
+					</section>
+                    <section>
+						<h3>Statistics</h3>
+						<img src="images/00-misc/gitx_03.png">
+					</section>
+                    <section>
+						<h3>User Management / Integration</h3>
+						<img src="images/00-misc/gitx_04.png">
+					</section>
+                    <section>
+						<h3>Features! Features! Features!</h3>
+						<img src="images/00-misc/gitx_05.png">
+					</section>
+                </section>
+
+				<section>
+					<h1>demo time!</h1>
+				</section>
+
+				<section>
+    				<section>
+                        <h3>Forking a repository</h3>
+                        <p>If you want to contribute to a project the most important thing is to <b>fork</b> the repository you want to contribute to.</p>
+                    </section>
+
+					<section>
+						<img src="images/01-fork-repo/01.png">
+					</section>
+					<section>
+						<img src="images/01-fork-repo/02.png">
+					</section>
+					<section>
+						<img src="images/01-fork-repo/03.png">
+					</section>
+					<section>
+						<img src="images/01-fork-repo/04.png">
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<h3>Clone a repository</h3>
+						<p>To actually edit files you have to create a local copy <b>(clone)</b> of the repository. A good practise is
+						to also create a <b>branch</b> for every <i>feature</i> you add.</p>
+					</section>
+
+					<section>
+						<img src="images/02-clone-and-branch/01.png">
+					</section>
+					<section>
+						<img src="images/02-clone-and-branch/02.png">
+					</section>
+					<section>
+						<img src="images/02-clone-and-branch/03.png">
+					</section>
+					<section>
+						<img src="images/02-clone-and-branch/04.png">
+					</section>
+					<section>
+						<img src="images/02-clone-and-branch/05.png">
+					</section>
+					<section>
+						<img src="images/02-clone-and-branch/06.png">
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<h3>Committing changes</h3>
+						<p>When you add changes to the repository you want to save them. </p>
+					</section>
+
+					<section>
+						<img src="images/03-basic-commit/01.png">
+					</section>
+					<section>
+						<img src="images/03-basic-commit/02.png">
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<h3>Only commit selected files</h3>
+						<p>Sometimes you don't want to put all files you changed / added into one commit. The reason is mostly
+						that not all changes belong to one <b>logical change</b>.</p>
+					</section>
+					<section>
+						<img src="images/04-selective-commit/01.png">
+					</section>
+					<section>
+						<img src="images/04-selective-commit/02.png">
+					</section>
+					<section>
+						<img src="images/04-selective-commit/03.png">
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<h3>Only commit part of a file</h3>
+						<p>Sometimes there are multiple logically unrelated changes in one file - e.g. you added a
+							feature and also fixed some typos.<br>
+							To keep each commit about exactly one logical change, you want to exclude some parts of
+							a file from the commit.</p>
+					</section>
+					<section>
+						<p>That might sound like an academic problem, but this happens more often than most people
+							realize at first.</p>
+					</section>
+					<section>
+						<img src="images/05-partially-commit-files/01.png">
+					</section>
+					<section>
+						<img src="images/05-partially-commit-files/02.png">
+					</section>
+					<section>
+						<img src="images/05-partially-commit-files/03.png">
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<h3>Push your changes</h3>
+						<p>So far we only saved our changes locally. To see your changes also online, they have to be
+							pushed. Branches that have been created locally, have to be published.</p>
+					</section>
+
+					<section>
+						<img src="images/06-push-commits/01.png">
+					</section>
+					<section>
+						<img src="images/06-push-commits/02.png">
+					</section>
+					<section>
+						<img src="images/06-push-commits/03.png">
+					</section>
+					<section>
+						<p>Meanwhile I added another commit. The "Publish branch" button has changed to a "Push origin" button</p>
+					</section>
+					<section>
+						<img src="images/06-push-commits/04.png">
+					</section>
+					<section>
+						<img src="images/06-push-commits/05.png">
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<h3>Make a pull request</h3>
+						<p>To give back to the original repository (you don't normally have write access to), you ask
+						the maintainer(s) to pull your changes</p>
+					</section>
+
+					<section>
+						<img src="images/07-pull-requests/01.png">
+					</section>
+					<section>
+						<img src="images/07-pull-requests/02.png">
+					</section>
+					<section>
+						<p>The maintainer(s) can now accept your contribution or comment on your changes and request
+							changes before they accept it.
+					</section>
+				</section>
+
+				<section>
+					<h3>Re-cap!</h3>
+					<p class="fragment fade-in">Git can end the "_V1", "_V2", "_V3_final", "_V3_FINAL_REALLY" chaos.</p>
+					<p class="fragment fade-in">Git only does file management.</p>
+					<p class="fragment fade-in">Git helps you to work together with other people on the same project.</p>
+					<p class="fragment fade-in">Basic workflow: clone, branch, commit / pull / push, <b>COMMUNICATE</b></p>
+					<p class="fragment fade-in">GitHub, GitLab and similar platforms bring additional tools, communication
+					platform.</p>
+				</section>
+				<section>
+					<h2>The End</h2>
+					<p><small>Slides can be found under</small></p>
+					<p><small><a href="https://github.com/augustinh22/maptime-salzburg">https://github.com/augustinh22/maptime-salzburg</a></small></p>
+				</section>
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
