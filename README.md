@@ -23,6 +23,6 @@ Here resources, presentations, folks to contact, tutorials, etc. will be documen
 
 A lot of this might be better done in a wiki. We'll see.
 
-## Latex Template
+## Video Sample Cover
 
-This folder contains a template for creating presentations with [Latex Beamer](https://github.com/josephwright/beamer).
+The videos start and end with a cover image. The template is called:  `video_sample_cover_intro_outro.odp`
