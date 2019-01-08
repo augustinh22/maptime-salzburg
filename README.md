@@ -26,3 +26,7 @@ A lot of this might be better done in a wiki. We'll see.
 ## Video Sample Cover
 
 The videos start and end with a cover image. The template is called:  `video_sample_cover_intro_outro.odp`
+
+## Logo
+
+The logo was created with [Inkscape](https://inkscape.org/). 
