@@ -9,6 +9,7 @@ This is a checklist template for a Maptime event with presentations. It can be c
 - [ ] define a theme (e.g. OpenStreetMap, remote sensing, spatial statistics, ... )
 - [ ] find presenters
 - [ ] discuss with the presenters what they will present and how the presentations fit together, make sure there is no overlap
+- [ ] find moderators to introduce presenters and take care of time-keeping
 
 ## Announce the event
 
@@ -71,11 +72,13 @@ For each task one (or two) person(s) should be responsible
 
 ## During event
 
-- [ ] announce next event
+- [ ] announce next event date
 - [ ] offer possibility to present next time
 - [ ] short introduction round
 - [ ] ask for donation for food and drinks
 - [ ] take photos of event
+- [ ] offer a way to submit/vote on new topics
+- [ ] if beverages/snacks are provided: pay-what-you-can donation box
 
 ## After event
 
