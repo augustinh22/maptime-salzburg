@@ -15,8 +15,8 @@ This is a checklist template for a Maptime event with presentations. It can be c
 - [x] write blog post and push in [this repository](https://github.com/maptime/salzburg/) - if you do not have the permissions make a pull request and contact admin
 - [ ] send invitations via all available channels - add short report about last event
   - [ ] companies (Trafficon, Salzburg Research, iSpace, ...)
-  - [ ] Z_GIS staff
-  - [ ] Z_GIS students
+  - [x] Z_GIS staff
+  - [x] Z_GIS students
   - [ ] Geography students
   - [ ] computer science students
   - [ ] computer science staff
