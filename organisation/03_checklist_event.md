@@ -47,7 +47,7 @@ For each task one (or two) person(s) should be responsible
 - [ ] moderator
 - [ ] technical person for computer, projector and slides
 - [ ] camera operator (in case presentations shall be recorded)
-- [ ] photographer
+- [ ] photographer - takes pictures during event
 
 ## Prepare location
 
