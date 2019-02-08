@@ -14,7 +14,10 @@ This is a checklist template for a Maptime event with presentations. It can be c
 
 - [ ] write blog post and push in [this repository](https://github.com/maptime/salzburg/) - if you do not have the permissions make a pull request and contact admin
 - [ ] send invitations via all available channels - add short report about last event
-  - [ ] companies (Trafficon, Salzburg Research, iSpace, ...)
+  - [ ] companies
+  - [ ] Trafficon
+  - [ ] Salzburg Research
+  - [ ] iSpace
   - [ ] Z_GIS staff
   - [ ] Z_GIS students
   - [ ] Geography students
@@ -24,6 +27,7 @@ This is a checklist template for a Maptime event with presentations. It can be c
   - [ ] individual persons from private network
   - [ ] [GIS Cluster](http://www.giscluster.at/) Salzburg
   - [ ] Austrian OpenStreetMap [mailing list](https://lists.openstreetmap.org/listinfo/talk-at)
+    [ ] German-speaking FOSSGIS [mailing list](fossgis-talk-liste@fossgis.de)
   - [ ] Twitter Post
   - [ ] Maptime Salzburg [mailing list](https://lists.fossgis.de/mailman/listinfo/maptime-salzburg)
   - [ ] add event in OSM calender:
@@ -42,6 +46,7 @@ For each task one (or two) person(s) should be responsible
 - [ ] moderator
 - [ ] technical person for computer, projector and slides
 - [ ] camera operator (in case presentations shall be recorded)
+- [ ] photographer
 
 ## Prepare location
 
