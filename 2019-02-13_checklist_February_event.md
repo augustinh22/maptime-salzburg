@@ -19,7 +19,7 @@ This is a checklist template for a Maptime event with presentations. It can be c
   - [x] iSpace
   - [ ] more companies ...
   - [x] Z_GIS staff
-  - [ ] Z_GIS students
+  - [x] Z_GIS students
   - [ ] Geography students
   - [ ] computer science students
   - [ ] computer science staff
