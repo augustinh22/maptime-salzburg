@@ -9,18 +9,29 @@ This is a checklist template for a Maptime event with presentations. It can be c
 - [x] define a theme --> Jupyter Notebook
 - [x] find presenters
 - [ ] discuss with the presenters what they will present and how the presentations fit together, make sure there is no overlap
+- [ ] set a date for the next Stammtisch (one month later), so it can be announced at the current event
+- [ ] Wifi password
+
 
 ## Announce the event
 
 - [x] write blog post and push in [this repository](https://github.com/maptime/salzburg/) - if you do not have the permissions make a pull request and contact admin
+- [ ] go to lecture and invite students in person
 - [ ] send invitations via all available channels - add short report about last event
-  - [ ] Trafficon
+  - [ ] [Trafficon](https://www.trafficon.eu/)
   - [x] Salzburg Research
   - [x] iSpace
-  - [ ] more companies ...
+  - [ ] [eoVision](http://www.eovision.at/)
+  - [ ] [SpatialServices](https://www.spatial-services.com/)
+  - [ ] [Witte & Partner | ZT-GmbH](https://www.witte.co.at/)
+  - [ ] [Icra](http://www.icra.at/)
+  - [ ] [SIR - Salzburger Institut für Raumordnung und Wohnen ](https://www.salzburg.gv.at/dienststellen/sonstige-einrichtungen/sir/)
+  - [ ] [Projekt Kompetenz](http://www.projektkompetenz.eu/)
+  - [ ] [igutech](https://www.igutech.at/)
+  - [ ] more companies - check [GISCluster](http://www.giscluster.at/)
   - [x] Z_GIS staff
   - [x] Z_GIS students
-  - [ ] Geography students
+  - [x] Geography students
   - [ ] computer science students
   - [ ] computer science staff
   - [ ] FH students
@@ -29,7 +40,7 @@ This is a checklist template for a Maptime event with presentations. It can be c
   - [x] Austrian OpenStreetMap [mailing list](https://lists.openstreetmap.org/listinfo/talk-at)
     [x] German-speaking FOSSGIS [mailing list](fossgis-talk-liste@fossgis.de)
   - [x] Twitter Post
-  - [ ] Maptime Salzburg [mailing list](https://lists.fossgis.de/mailman/listinfo/maptime-salzburg)
+  - [x] Maptime Salzburg [mailing list](https://lists.fossgis.de/mailman/listinfo/maptime-salzburg)
   - [x] add event in OSM calender:
     - edit [this website](https://wiki.openstreetmap.org/wiki/Template:Calendar)
     - add this snippet and adapt it:
@@ -76,10 +87,6 @@ For each task one (or two) person(s) should be responsible
 
 ## During event
 
-- [ ] announce next event
-- [ ] offer possibility to present next time
-- [ ] short introduction round
-- [ ] ask for donation for food and drinks
 - [ ] take photos of event
 
 ## After event
