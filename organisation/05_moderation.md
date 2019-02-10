@@ -26,3 +26,11 @@ This file describes what the moderator should do:
   - thanks to presenter, maybe give a little present
   - initiate discussion,
   - prepare one question by yourself if no question by the audience is asked
+
+
+## Prepare
+
+- [ ] Music - maybe Creative Commons Music
+- [ ] Presenter's computer
+  - [ ] deactivate lock and fall asleep --> prevents trouble
+  - [ ] make mouse settings normal --> so that everyone can use the laptop like expected

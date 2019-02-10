@@ -30,6 +30,7 @@ This is a checklist template for a Maptime event with presentations. It can be c
   - [ ] [SIR - Salzburger Institut für Raumordnung und Wohnen ](https://www.salzburg.gv.at/dienststellen/sonstige-einrichtungen/sir/)
   - [ ] [Projekt Kompetenz](http://www.projektkompetenz.eu/)
   - [ ] [igutech](https://www.igutech.at/)
+  - [ ] [SAGIS](https://www.salzburg.gv.at/sagis)
   - [ ] more companies - check [GISCluster](http://www.giscluster.at/)
   - [ ] Z_GIS staff
   - [ ] Z_GIS students
