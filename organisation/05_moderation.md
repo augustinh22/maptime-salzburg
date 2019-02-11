@@ -10,6 +10,10 @@ This file describes what the moderator should do:
 - offer that everyone can speak in German or English - (contextual) translation will be provided
 - ask for donation (if food and drinks are provided by Maptime)
 - offer possibility to present the next time
+- ideas are very welcome
+- show our [website](http://www.maptime.io/salzburg)
+- show our [git repo](https://github.com/augustinh22/maptime-salzburg/)
+- mention our [mailing list](https://lists.fossgis.de/mailman/listinfo/maptime-salzburg)
 - initiate introduction round
 - announce next meeting
 - ask for wishes and feedback, show whiteboard where ideas can be noted
@@ -34,3 +38,4 @@ This file describes what the moderator should do:
 - [ ] Presenter's computer
   - [ ] deactivate lock and fall asleep --> prevents trouble
   - [ ] make mouse settings normal --> so that everyone can use the laptop like expected
+- [ ] screen video on projector e.g. http://osmlab.github.io/show-me-the-way/

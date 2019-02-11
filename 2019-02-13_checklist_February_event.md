@@ -16,7 +16,6 @@ This is a checklist template for a Maptime event with presentations. It can be c
 ## Announce the event
 
 - [x] write blog post and push in [this repository](https://github.com/maptime/salzburg/) - if you do not have the permissions make a pull request and contact admin
-- [ ] go to lecture and invite students in person
 - [ ] send invitations via all available channels - add short report about last event
   - [ ] [Trafficon](https://www.trafficon.eu/)
   - [x] Salzburg Research
@@ -54,10 +53,10 @@ This is a checklist template for a Maptime event with presentations. It can be c
 For each task one (or two) person(s) should be responsible
 
 - [ ] event owner - keeping big picture and helps out if something goes wrong
-- [ ] moderator
+- [x] moderator --> Jakob + Niko
 - [x] technical person for computer, projector and slides --> Jakob
 - [x] camera operator (in case presentations shall be recorded) --> Christian
-- [ ] photographer
+- [x] photographer --> Hannah
 
 ## Prepare location
 
@@ -74,6 +73,8 @@ For each task one (or two) person(s) should be responsible
 - [ ] presenter device a.k.a. clicker (wireless, for switching to new slide)
 - [ ] name-tag sticker ("Hello, my name is ... ") and pen
 - [ ] Special for iDEAS:lab: make loud speaker silent (makes annoying noise)
+- [ ] extra electricity cable (multiple socket - "Mehrfachsteckdose")
+- [ ] bring USB-stick for simple file transfer
 
 ## Video-Recording
 

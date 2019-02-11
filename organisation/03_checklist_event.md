@@ -31,6 +31,7 @@ This is a checklist template for a Maptime event with presentations. It can be c
   - [ ] [Projekt Kompetenz](http://www.projektkompetenz.eu/)
   - [ ] [igutech](https://www.igutech.at/)
   - [ ] [SAGIS](https://www.salzburg.gv.at/sagis)
+  - [ ] [Onyx Technologie OG](http://www.apemap.com/)
   - [ ] more companies - check [GISCluster](http://www.giscluster.at/)
   - [ ] Z_GIS staff
   - [ ] Z_GIS students
@@ -80,6 +81,9 @@ For each task one (or two) person(s) should be responsible
 - [ ] if beverages/snacks are provided: pay-what-you-can donation box
 - [ ] deactivate password of presenter's computer
 - [ ] Wifi password
+- [ ] extra electricity cable (multiple socket - "Mehrfachsteckdose")
+- [ ] bring USB-stick for simple file transfer
+
 
 ## Video-Recording
 
