@@ -69,7 +69,10 @@ For each task one (or two) person(s) should be responsible
 - [ ] test all presentations (PDF, Reveal JS, etc.)
 - [ ] check projector and connection to laptop
 - [ ] enough chairs
-- [ ] drink and snacks
+- [ ] drinks and snacks
+- [ ] plastic cups
+- [ ] napkins
+- [ ] table (for drinks, snacks, flyer ...)
 - [ ] donation box
 - [ ] decoration
 - [ ] music
@@ -77,13 +80,17 @@ For each task one (or two) person(s) should be responsible
 - [ ] flyer and sticker
 - [ ] presenter device a.k.a. clicker (wireless, for switching to new slide)
 - [ ] name-tag sticker ("Hello, my name is ... ") and pen
-- [ ] Special for iDEAS:lab: make loud speaker silent (makes annoying noise)
 - [ ] if beverages/snacks are provided: pay-what-you-can donation box
 - [ ] deactivate password of presenter's computer
 - [ ] Wifi password
 - [ ] extra electricity cable (multiple socket - "Mehrfachsteckdose")
 - [ ] bring USB-stick for simple file transfer
 
+## iDEAS:lab - Special
+
+- [ ] make loud speaker silent (makes annoying noise)
+- [ ] bring transportation cart ("Wagerl" / "Wägelchen")
+- [ ] bring piece of cloth if some drink gets spilled ("Lappen" / "Fetzen")
 
 ## Video-Recording
 

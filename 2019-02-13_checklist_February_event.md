@@ -10,7 +10,7 @@ This is a checklist template for a Maptime event with presentations. It can be c
 - [x] find presenters
 - [ ] discuss with the presenters what they will present and how the presentations fit together, make sure there is no overlap
 - [ ] set a date for the next Stammtisch (one month later), so it can be announced at the current event
-- [ ] Wifi password
+- [x] Wifi password
 
 
 ## Announce the event
@@ -26,7 +26,7 @@ This is a checklist template for a Maptime event with presentations. It can be c
   - [ ] [Icra](http://www.icra.at/)
   - [ ] [SIR - Salzburger Institut für Raumordnung und Wohnen ](https://www.salzburg.gv.at/dienststellen/sonstige-einrichtungen/sir/)
   - [ ] [Projekt Kompetenz](http://www.projektkompetenz.eu/)
-  - [ ] [igutech](https://www.igutech.at/)
+  - [x] [igutech](https://www.igutech.at/)
   - [ ] more companies - check [GISCluster](http://www.giscluster.at/)
   - [x] Z_GIS staff
   - [x] Z_GIS students
@@ -63,8 +63,11 @@ For each task one (or two) person(s) should be responsible
 - [ ] main laptop for presentation
 - [ ] test all presentations (PDF, Reveal JS, etc.)
 - [ ] check projector and connection to laptop
-- [ ] enough chairs
+- [x] enough chairs
 - [ ] drink and snacks
+- [ ] plastic cups
+- [ ] napkins
+- [ ] table (for drinks, snacks, flyer ...)
 - [ ] donation box
 - [ ] decoration
 - [ ] music
@@ -72,9 +75,14 @@ For each task one (or two) person(s) should be responsible
 - [ ] flyer and sticker
 - [ ] presenter device a.k.a. clicker (wireless, for switching to new slide)
 - [ ] name-tag sticker ("Hello, my name is ... ") and pen
-- [ ] Special for iDEAS:lab: make loud speaker silent (makes annoying noise)
 - [ ] extra electricity cable (multiple socket - "Mehrfachsteckdose")
 - [ ] bring USB-stick for simple file transfer
+
+## iDEAS:lab - Special
+
+- [ ] make loud speaker silent (makes annoying noise)
+- [ ] bring transportation cart ("Wagerl" / "Wägelchen")
+- [ ] bring piece of cloth if some drink gets spilled ("Lappen" / "Fetzen")
 
 ## Video-Recording
 

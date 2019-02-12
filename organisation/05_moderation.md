@@ -7,18 +7,19 @@ This file describes what the moderator should do:
 - welcome everyone
 - thanks to the location host
 - information about food and drinks
-- offer that everyone can speak in German or English - (contextual) translation will be provided
 - ask for donation (if food and drinks are provided by Maptime)
+- offer that everyone can speak in German or English - (contextual) translation will be provided
 - offer possibility to present the next time
 - ideas are very welcome
 - show our [website](http://www.maptime.io/salzburg)
 - show our [git repo](https://github.com/augustinh22/maptime-salzburg/)
 - mention our [mailing list](https://lists.fossgis.de/mailman/listinfo/maptime-salzburg)
-- initiate introduction round
 - announce next meeting
 - ask for wishes and feedback, show whiteboard where ideas can be noted
 - maybe a slide with all information
 - WiFi password
+- introduce topic/theme of the event
+- initiate introduction round
 - hashtag for social media
 
 
