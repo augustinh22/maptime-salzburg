@@ -65,6 +65,7 @@ For each task one (or two) person(s) should be responsible
 
 ## Prepare location
 
+- [ ] maptime logo signs with arrows to get to room and WCs
 - [ ] main laptop for presentation
 - [ ] test all presentations (PDF, Reveal JS, etc.)
 - [ ] check projector and connection to laptop
@@ -109,6 +110,7 @@ For each task one (or two) person(s) should be responsible
 ## After event
 
 - [ ] clean up
+- [ ] remove all maptime logo signs
 - [ ] Reflect the event - remember what was good and what could be improved the next time
 - [ ] adapt **this** checklist in order to make the organization of the next event easier
 - [ ] thanks to the host
