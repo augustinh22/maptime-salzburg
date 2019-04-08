@@ -85,6 +85,7 @@ For each task one (or two) person(s) should be responsible
 - [ ] Wifi password
 - [ ] extra electricity cable (multiple socket - "Mehrfachsteckdose")
 - [ ] bring USB-stick for simple file transfer
+- [ ] garbage bag
 
 ## iDEAS:lab - Special
 
@@ -101,9 +102,11 @@ For each task one (or two) person(s) should be responsible
 - [ ] microphone (with battery)
 - [ ] screencast of presenter's laptop
 - [ ] mouse with halo around cursor
+- [ ] videos shall not contain any copyright protected images or data, otherwise it might not be possible to upload them
 
 ## During event
 
+- [ ] ask everyone if it is okay to take photos of him or her
 - [ ] take photos of event
 
 ## After event

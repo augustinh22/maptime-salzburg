@@ -1,48 +1,63 @@
-# Checklist Event
+# 2019-05-05 - Maptime Mapathon
 
-This is a checklist template for a Maptime event with presentations. It can be copied and edited. So everybody sees what is happening.
+## Links:
+
+- [Checklist](http://www.missingmaps.org/host/)
+- [Information](http://www.missingmaps.org/assets/downloads/mapathon-materials/english/How_to_Host_a_Mapathon_EN.pdf)
+
 
 ## The Basics
 
-- [x] organize location
-- [x] set date and time
-- [x] define a theme --> Jupyter Notebook
-- [x] find presenters
-- [ ] discuss with the presenters what they will present and how the presentations fit together, make sure there is no overlap
+- [x] organize location --> iDEAS:lab
+- [x] set date and time --> 8th May, 19:00
+- [x] define a theme --> "Mapathon"
+- [ ] find presenters
+- [ ] find moderators to introduce presenters
 - [ ] set a date for the next Stammtisch (one month later), so it can be announced at the current event
-- [x] Wifi password
+- [ ] Wifi password
+- [ ] Wifi Speed testing
 
+## Mapathon Special
+
+- [ ] [Register Mapathon](https://docs.google.com/forms/d/e/1FAIpQLScdvsMHLor8mrDrHa-BQs2XzFb96vIrx3u--LHXWd1g7RncPg/viewform)
+- [ ] Prepare Overpass Query that visualizes the edits, make some statistics
+- [ ] print cheat sheet with shortcuts for JOSM and iD
+- [ ] Tape extension cords to the floor for safety
 
 ## Announce the event
 
-- [x] write blog post and push in [this repository](https://github.com/maptime/salzburg/) - if you do not have the permissions make a pull request and contact admin
+- [ ] write blog post and push in [this repository](https://github.com/maptime/salzburg/) - if you do not have the permissions make a pull request and contact admin
+- [ ] go to lecture and invite students in person
 - [ ] send invitations via all available channels - add short report about last event
   - [ ] [Trafficon](https://www.trafficon.eu/)
-  - [x] Salzburg Research
-  - [x] iSpace
+  - [ ] [GIS Cluster](http://www.giscluster.at/) Salzburg
+  - [ ] Salzburg Research
+  - [ ] iSpace
   - [ ] [eoVision](http://www.eovision.at/)
   - [ ] [SpatialServices](https://www.spatial-services.com/)
-  - [ ] [Witte & Partner | ZT-GmbH](https://www.witte.co.at/)
+  - [ ] [Dipl.-Ing. Horst Witte & Partner | ZT-GmbH](https://www.witte.co.at/)
   - [ ] [Icra](http://www.icra.at/)
   - [ ] [SIR - Salzburger Institut für Raumordnung und Wohnen ](https://www.salzburg.gv.at/dienststellen/sonstige-einrichtungen/sir/)
   - [ ] [Projekt Kompetenz](http://www.projektkompetenz.eu/)
-  - [x] [igutech](https://www.igutech.at/)
+  - [ ] [igutech](https://www.igutech.at/)
+  - [ ] [SAGIS](https://www.salzburg.gv.at/sagis)
+  - [ ] [Onyx Technologie OG](http://www.apemap.com/)
   - [ ] more companies - check [GISCluster](http://www.giscluster.at/)
-  - [x] Z_GIS staff
-  - [x] Z_GIS students
-  - [x] Geography students
+  - [ ] Z_GIS staff
+  - [ ] Z_GIS students
+  - [ ] Geography students
   - [ ] computer science students
   - [ ] computer science staff
   - [ ] FH students
-  - [x] individual persons from private network
-  - [ ] [GIS Cluster](http://www.giscluster.at/) Salzburg
-  - [x] Austrian OpenStreetMap [mailing list](https://lists.openstreetmap.org/listinfo/talk-at)
-    [x] German-speaking FOSSGIS [mailing list](fossgis-talk-liste@fossgis.de)
-  - [x] Twitter Post
-  - [x] Maptime Salzburg [mailing list](https://lists.fossgis.de/mailman/listinfo/maptime-salzburg)
-  - [x] add event in OSM calender:
+  - [ ] individual persons from private network
+  - [ ] Austrian OpenStreetMap [mailing list](https://lists.openstreetmap.org/listinfo/talk-at)
+        [ ] German-speaking FOSSGIS [mailing list](fossgis-talk-liste@fossgis.de)
+  - [ ] Twitter Post
+  - [ ] Maptime Salzburg [mailing list](https://lists.fossgis.de/mailman/listinfo/maptime-salzburg)
+  - [ ] add event in OSM calender:
     - edit [this website](https://wiki.openstreetmap.org/wiki/Template:Calendar)
     - add this snippet and adapt it:
+
 ```
 | {{Cal|social}} || {{Dm|y=2018|Dec 12}} || <span class="p-name">[http://maptime.io/salzburg/event/2018/12/12/data-handling/ Maptime Salzburg], [[Salzburg]], [[Austria]]</span> {{SmallFlag|Austria}}
 |-class="h-event"
@@ -53,18 +68,20 @@ This is a checklist template for a Maptime event with presentations. It can be c
 For each task one (or two) person(s) should be responsible
 
 - [ ] event owner - keeping big picture and helps out if something goes wrong
-- [x] moderator --> Jakob + Niko
-- [x] technical person for computer, projector and slides --> Jakob
-- [x] camera operator (in case presentations shall be recorded) --> Christian
-- [x] photographer --> Hannah
+- [ ] moderator
+- [ ] technical person for computer, projector and slides
+- [ ] OSM support (JOSM, iD) - Nr. 1
+- [ ] OSM support (JOSM, iD) - Nr. 2
+- [ ] OSM support (JOSM, iD) - Nr. 3
+- [ ] photographer - takes pictures during event
 
 ## Prepare location
 
 - [ ] main laptop for presentation
 - [ ] test all presentations (PDF, Reveal JS, etc.)
 - [ ] check projector and connection to laptop
-- [x] enough chairs
-- [ ] drink and snacks
+- [ ] enough chairs
+- [ ] drinks and snacks
 - [ ] plastic cups
 - [ ] napkins
 - [ ] table (for drinks, snacks, flyer ...)
@@ -75,8 +92,13 @@ For each task one (or two) person(s) should be responsible
 - [ ] flyer and sticker
 - [ ] presenter device a.k.a. clicker (wireless, for switching to new slide)
 - [ ] name-tag sticker ("Hello, my name is ... ") and pen
+- [ ] if beverages/snacks are provided: pay-what-you-can donation box
+- [ ] deactivate password of presenter's computer
+- [ ] Wifi password
 - [ ] extra electricity cable (multiple socket - "Mehrfachsteckdose")
 - [ ] bring USB-stick for simple file transfer
+- [ ] garbage bag
+- [ ] provide extra mice (a.k.a mouses)
 
 ## iDEAS:lab - Special
 
@@ -84,18 +106,9 @@ For each task one (or two) person(s) should be responsible
 - [ ] bring transportation cart ("Wagerl" / "Wägelchen")
 - [ ] bring piece of cloth if some drink gets spilled ("Lappen" / "Fetzen")
 
-## Video-Recording
-
-- [ ] camera + full battery
-- [ ] camera memory card
-- [ ] camera tripod
-- [ ] camera electricity cable
-- [ ] microphone (with battery)
-- [ ] screencast of presenter's laptop
-- [ ] mouse with halo around cursor
-
 ## During event
 
+- [ ] ask everyone if it is okay to take photos of him or her
 - [ ] take photos of event
 
 ## After event
