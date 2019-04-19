@@ -4,6 +4,7 @@
 
 - [Checklist](http://www.missingmaps.org/host/)
 - [Information](http://www.missingmaps.org/assets/downloads/mapathon-materials/english/How_to_Host_a_Mapathon_EN.pdf)
+- [Video Playlist](https://www.youtube.com/playlist?list=PLb9506_-6FMHULD9iDUAh-4qpxKdVspnD)
 
 
 ## The Basics
@@ -11,8 +12,8 @@
 - [x] organize location --> iDEAS:lab
 - [x] set date and time --> 8th May, 19:00
 - [x] define a theme --> "Mapathon"
-- [ ] find presenters
-- [ ] find moderators to introduce presenters
+- [ ] find introduction video or preseneter
+- [ ] find moderator
 - [ ] set a date for the next Stammtisch (one month later), so it can be announced at the current event
 - [ ] Wifi password
 - [ ] Wifi Speed testing
@@ -29,7 +30,7 @@
 - [ ] write blog post and push in [this repository](https://github.com/maptime/salzburg/) - if you do not have the permissions make a pull request and contact admin
 - [ ] go to lecture and invite students in person
 - [ ] send invitations via all available channels - add short report about last event
-  - [ ] [Trafficon](https://www.trafficon.eu/)
+  - [x] [Trafficon](https://www.trafficon.eu/)
   - [ ] [GIS Cluster](http://www.giscluster.at/) Salzburg
   - [ ] Salzburg Research
   - [ ] iSpace
@@ -50,17 +51,17 @@
   - [ ] computer science staff
   - [ ] FH students
   - [ ] individual persons from private network
-  - [ ] Austrian OpenStreetMap [mailing list](https://lists.openstreetmap.org/listinfo/talk-at)
+  - [x] Austrian OpenStreetMap [mailing list](https://lists.openstreetmap.org/listinfo/talk-at)
         [ ] German-speaking FOSSGIS [mailing list](fossgis-talk-liste@fossgis.de)
-  - [ ] Twitter Post
-  - [ ] Maptime Salzburg [mailing list](https://lists.fossgis.de/mailman/listinfo/maptime-salzburg)
-  - [ ] add event in OSM calender:
+  - [x] Twitter Post
+  - [x] Maptime Salzburg [mailing list](https://lists.fossgis.de/mailman/listinfo/maptime-salzburg)
+  - [x] add event in OSM calender:
     - edit [this website](https://wiki.openstreetmap.org/wiki/Template:Calendar)
     - add this snippet and adapt it:
 
 ```
-| {{Cal|social}} || {{Dm|y=2018|Dec 12}} || <span class="p-name">[http://maptime.io/salzburg/event/2018/12/12/data-handling/ Maptime Salzburg], [[Salzburg]], [[Austria]]</span> {{SmallFlag|Austria}}
-|-class="h-event"
+  | {{Cal|social}} || {{Dm|y=2018|Dec 12}} || <span class="p-name">[http://maptime.io/salzburg/event/2018/12/12/data-handling/ Maptime Salzburg], [[Salzburg]], [[Austria]]</span> {{SmallFlag|Austria}}
+  |-class="h-event"
 ```
 
 ## Responsible Persons
