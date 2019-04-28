@@ -20,10 +20,11 @@
 
 ## Mapathon Special
 
-- [ ] [Register Mapathon](https://docs.google.com/forms/d/e/1FAIpQLScdvsMHLor8mrDrHa-BQs2XzFb96vIrx3u--LHXWd1g7RncPg/viewform)
+- [x] [Register Mapathon](https://docs.google.com/forms/d/e/1FAIpQLScdvsMHLor8mrDrHa-BQs2XzFb96vIrx3u--LHXWd1g7RncPg/viewform)
 - [ ] Prepare Overpass Query that visualizes the edits, make some statistics
 - [ ] print cheat sheet with shortcuts for JOSM and iD
 - [ ] Tape extension cords to the floor for safety
+- [ ] bring extra mice ("mouses"), because many people will forget theirs
 
 ## Announce the event
 
@@ -44,7 +45,7 @@
   - [ ] [SAGIS](https://www.salzburg.gv.at/sagis)
   - [ ] [Onyx Technologie OG](http://www.apemap.com/)
   - [ ] more companies - check [GISCluster](http://www.giscluster.at/)
-  - [ ] Z_GIS staff
+  - [x] Z_GIS staff
   - [ ] Z_GIS students
   - [ ] Geography students
   - [ ] computer science students
