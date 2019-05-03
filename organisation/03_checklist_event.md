@@ -40,6 +40,7 @@ This is a checklist template for a Maptime event with presentations. It can be c
   - [ ] computer science staff
   - [ ] FH students
   - [ ] individual persons from private network
+  - [ ] [GeoComPass](https://www.geocompass.at)
   - [ ] Austrian OpenStreetMap [mailing list](https://lists.openstreetmap.org/listinfo/talk-at)
         [ ] German-speaking FOSSGIS [mailing list](fossgis-talk-liste@fossgis.de)
   - [ ] Twitter Post

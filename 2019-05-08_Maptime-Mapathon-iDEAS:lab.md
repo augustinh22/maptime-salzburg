@@ -15,20 +15,21 @@
 - [ ] find introduction video or preseneter
 - [ ] find moderator
 - [ ] set a date for the next Stammtisch (one month later), so it can be announced at the current event
-- [ ] Wifi password
+- [x] Wifi password
 - [ ] Wifi Speed testing
 
 ## Mapathon Special
 
 - [x] [Register Mapathon](https://docs.google.com/forms/d/e/1FAIpQLScdvsMHLor8mrDrHa-BQs2XzFb96vIrx3u--LHXWd1g7RncPg/viewform)
-- [ ] Prepare Overpass Query that visualizes the edits, make some statistics
 - [ ] print cheat sheet with shortcuts for JOSM and iD
 - [ ] Tape extension cords to the floor for safety
 - [ ] bring extra mice ("mouses"), because many people will forget theirs
+- [ ] define region/task to map
+- [ ] check if firewall blocks OSM or Hot Tasking Manager
 
 ## Announce the event
 
-- [ ] write blog post and push in [this repository](https://github.com/maptime/salzburg/) - if you do not have the permissions make a pull request and contact admin
+- [x] write blog post and push in [this repository](https://github.com/maptime/salzburg/) - if you do not have the permissions make a pull request and contact admin
 - [ ] go to lecture and invite students in person
 - [ ] send invitations via all available channels - add short report about last event
   - [x] [Trafficon](https://www.trafficon.eu/)
@@ -46,12 +47,13 @@
   - [ ] [Onyx Technologie OG](http://www.apemap.com/)
   - [ ] more companies - check [GISCluster](http://www.giscluster.at/)
   - [x] Z_GIS staff
-  - [ ] Z_GIS students
-  - [ ] Geography students
+  - [x] Z_GIS students
+  - [x] Geography students
   - [ ] computer science students
   - [ ] computer science staff
   - [ ] FH students
-  - [ ] individual persons from private network
+  - [x] individual persons from private network
+  - [x] [GeoComPass](https://www.geocompass.at)
   - [x] Austrian OpenStreetMap [mailing list](https://lists.openstreetmap.org/listinfo/talk-at)
         [ ] German-speaking FOSSGIS [mailing list](fossgis-talk-liste@fossgis.de)
   - [x] Twitter Post
@@ -101,6 +103,7 @@ For each task one (or two) person(s) should be responsible
 - [ ] bring USB-stick for simple file transfer
 - [ ] garbage bag
 - [ ] provide extra mice (a.k.a mouses)
+- [ ] print checklist and pin it in the location room: the helpers can see what needs to be done and can note down if tasks have been done
 
 ## iDEAS:lab - Special
 
