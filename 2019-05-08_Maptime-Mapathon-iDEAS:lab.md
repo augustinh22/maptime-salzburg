@@ -26,6 +26,7 @@
 - [ ] bring extra mice ("mouses"), because many people will forget theirs
 - [ ] define region/task to map
 - [ ] check if firewall blocks OSM or Hot Tasking Manager
+- [ ] ask for helpers from humanitarian research group at Z_GIS
 
 ## Announce the event
 
