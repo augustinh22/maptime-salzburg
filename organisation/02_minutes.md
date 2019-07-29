@@ -1,6 +1,68 @@
 This is a running list of minutes from organisational meetings and decisions, with most recent on top, and older minutes on the bottom. The idea is that this will eventually be much more collaborative with many people participating, so here, things can be documented for all to read. People's abbreviations should be documented and kept up to date in the file ```./01_organsation/01_people.md```
 
 ---
+# 2019-07-23
+
+Participants: JM, NJ, HA, EW
+
+Location: Alchimiste
+
+## To-Do for next meeting:
+
+- [ ] Organise September Maptime with TraffiCon [EW]
+- [ ] Figure out when AGI MSc orientation is [HA]
+- [ ] Delegate contacting companies for October [HA]
+- [ ] create Meetup event with maptime e-mail [NJ]
+- [ ] blog post on the new website from AGIT [JM]
+- [ ] draft mission statement/description for outreach and website [HA]
+
+## Minutes
+
+JM: Review of AGIT event and Mapathon // Youth Mappers
+
+### Upcoming events
+
+  - September 18th, Mapathon + JOSM at TraffiCon
+    - EW to organise date and location
+    - NJ: Foss4G Re-camp
+    - Work with Peter, Gina, Petra, Kerstin... (location, background info)
+  - October (same week as AGI MSc Orientation), Intro to Geo in Salzburg
+    - Companies to contact:
+      - Salzburger AG (Marion)
+      - TraffiCon (EW)
+      - SpaSe (Kerstin/Steffen)
+      - iSpace
+      - Salzburg Research
+      - SAGIS
+      - EOVision (Marion?)
+      - runtastic
+      - outdooractive
+      - IGU
+      - ... everyone at ZGIS talk about their research
+    - November (2nd week), QGIS
+      - Favourite Plug-ins
+      - Intro to QGIS
+      - QGIS and OSM (Overpass API)
+    - December (2nd week), Rundgemälde + Stammtisch
+
+### Future Presentation topic brainstorm
+
+  - Tweets + Geocoding (Clemens?)
+  - GeoNews (7 minutes): overview of upcoming events, releases, etc.
+    - SotM
+    - Events in Vienna, Munich, etc.
+    - Upcoming conferences...
+  - Sen2Cube architecture
+  - Cool Maps
+
+### Other Points
+
+  - potential future collaboration with Munich or Vienna?
+    - Unsure.
+  - Start using Meetup.com to push events
+    - NJ wants this bad
+
+
 # 2018-10-26T1600
 
 Participants: JM, PS, NJ, HA, EW (video)
