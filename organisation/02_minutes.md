@@ -39,11 +39,11 @@ JM: Review of AGIT event and Mapathon // Youth Mappers
       - outdooractive
       - IGU
       - ... everyone at ZGIS talk about their research
-    - November (2nd week), QGIS
-      - Favourite Plug-ins
-      - Intro to QGIS
-      - QGIS and OSM (Overpass API)
-    - December (2nd week), Rundgemälde + Stammtisch
+   - November (2nd week), QGIS
+     - Favourite Plug-ins
+     - Intro to QGIS
+     - QGIS and OSM (Overpass API)
+   - December (2nd week), Rundgemälde + Stammtisch
 
 ### Future Presentation topic brainstorm
 
