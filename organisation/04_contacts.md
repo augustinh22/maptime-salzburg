@@ -23,6 +23,7 @@ Institutions, communities that we can contact to join our meetings.
 * [Salzburg AG](https://www.salzburg-ag.at/)
 * [Wikitude](https://www.wikitude.com/)
 * [Porsche Informatik](https://www.porscheinformatik.at/)
++ [Pöyry](https://www.poyry.at/de/kontakte)
 
 
 ## Communities
