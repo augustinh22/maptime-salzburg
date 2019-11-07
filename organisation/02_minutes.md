@@ -1,6 +1,103 @@
 This is a running list of minutes from organisational meetings and decisions, with most recent on top, and older minutes on the bottom. The idea is that this will eventually be much more collaborative with many people participating, so here, things can be documented for all to read. People's abbreviations should be documented and kept up to date in the file ```./01_organsation/01_people.md```
 
 ---
+
+# 2019-11-06
+
+Participants: JM, NJ, HA, EW
+
+Location: at JM
+
+## Create Agenda for next Maptime (14.11)
+
+### Funny presentations
+
+PostGIS Tag [JM]
+
+Map November 30 days of mapping [N]
+
+### 1 year Maptime
+
+Give an overview over the past year [EW]
+  - presentations
+  - invited speaker
+  - events (mapathons, OSM mapping)
+  - social stuff
+
+### Slido Questions [HA]
+
+#### Feedback
+
+What was the most interesting of what we already did?
+  - overview presentations
+  - technical presentations
+  - mapathons
+  - OSM (Streetcomplete, other outdoor mapping)
+  - social events (Stammtisch)
+
+
+What kinds of technical topics would you like to see?
+  - Cartography
+  - QGIS and other GIS
+  - OSM
+  - Python and Jupyter
+  - Earth Observation
+  - ...
+
+
+What other events would you like to see?
+
+  - informal OSM mapping workshops
+  - coworking together on whatever projects you have
+
+
+What topics would you be able to share for presentations?
+
+
+Where else would you like to meet other than iDEAS:lab?
+  - restaurant/bar
+  - university room
+  - company
+  - ...
+
+
+Would you be interested in an event with companies in Salzburg?
+
+What day of the week should we meet?
+- rotating
+- days
+
+How did you hear about Maptime?
+-
+
+#### Quiz
+
+Satellitenbilder Quiz ()
+
+Wie viele km über die Erde fliegt .... satellite.
+
+Which of the following organisations exist for real?
+- Association for the protction of the Shapefile
+- flat earth society
+-
+
+What is the ESPG code of pseudo mercator?
+
+What is the name of this projection?
+
+What qualties does this projection have?
+  - flachentreu usw.
+
+Bis zu wieviel dateien kann einen Shapefile entstehen?
+
+Wann wurde die erste Version PostGIS veröffentlicht?
+- schätzfrage
+
+After which city is the newest QGIS version named?
+
+How long has the iDEAS:lab existed?
+
+
 # 2019-07-23
 
 Participants: JM, NJ, HA, EW
