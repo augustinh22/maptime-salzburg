@@ -12,11 +12,11 @@ This is a checklist template for a Maptime event with presentations. It can be c
 - [ ] find moderators to introduce presenters and take care of time-keeping
 - [ ] set a date for the next Stammtisch (one month later), so it can be announced at the current event
 - [ ] Wifi password
-
+gesendet
 
 ## Announce the event
 
-- [x] write blog post and push in [this repository](https://github.com/maptime/salzburg/) - if you do not have the permissions make a pull request and contact admin
+- [x] write blog post and push in [thgesendetis repository](https://github.com/maptime/salzburg/) - if you do not have the permissions make a pull request and contact admin
 - [x] go to lecture and invite students in person --> no lectures yet
 - [ ] Publish event on meetup.com
 - [ ] send invitations via all available channels - add short report about last event
@@ -25,7 +25,7 @@ This is a checklist template for a Maptime event with presentations. It can be c
   - [ ] Salzburg Research
   - [ ] iSpace
   - [ ] [eoVision](http://www.eovision.at/)
-  - [ ] [SpatialServices](https://www.spatial-services.com/)
+  - [ ] [SpatialServices](https://wwwgesendet.spatial-services.com/)
   - [ ] [https://www.geocompass.at)
   - [x] Austrian OpenStreetMap [mailing list](https://lists.openstreetmap.org/listinfo/talk-at)
   - [ ] Twitter Post
@@ -101,7 +101,7 @@ For each task one (or two) person(s) should be responsible
 - [ ] garbage bag
 - [ ] print checklist and pin it in the location room: the helpers can see what needs to be done and can note down if tasks have been done
 - [ ] bring tape for sticking papers at the wall and cables on the floor
-- [ ] wordrobe for jackets, etc. (Garderobe")
+- [ ] wardrobe for jackets, etc. (Garderobe")
 - [ ] extra loudspeaker - if the build-in one does not work
 
 ## Mapathon - Special

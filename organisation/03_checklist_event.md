@@ -26,7 +26,6 @@ This is a checklist template for a Maptime event with presentations. It can be c
   - [ ] iSpace
   - [ ] [eoVision](http://www.eovision.at/)
   - [ ] [SpatialServices](https://www.spatial-services.com/)
-  - [ ] [Dtps://www.geocompass.at)
   - [ ] Austrian OpenStreetMap [mailing list](https://lists.openstreetmap.org/listinfo/talk-at)
         [ ] German-speaking FOSSGIS [mailing list](fossgis-talk-liste@fossgis.de)
   - [ ] Twitter Post
@@ -49,11 +48,6 @@ This is a checklist template for a Maptime event with presentations. It can be c
   - [ ] FH students
   - [ ] individual persons from private network
   - [ ] [GeoComPass](https://www.geocompass.at)
-  - [ ] Austrian OpenStreetMap [mailing list](https://lists.openstreetmap.org/listinfo/talk-at)
-        [ ] German-speaking FOSSGIS [mailing list](fossgis-talk-liste@fossgis.de)
-  - [ ] Twitter Post
-  - [ ] Maptime Salzburg [mailing list](https://lists.fossgis.de/mailman/listinfo/maptime-salzburg)
-  - [ ] add event in OSM calender:
     - edit [this website](https://wiki.openstreetmap.org/wiki/Template:Calendar)
     - add this snippet and adapt it:
 
@@ -98,7 +92,6 @@ For each task one (or two) person(s) should be responsible
 - [ ] flyer and sticker
 - [ ] presenter device a.k.a. clicker (wireless, for switching to new slide)
 - [ ] name-tag sticker ("Hello, my name is ... ") and pen
-- [ ] if beverages/snacks are provided: pay-what-you-can donation box
 - [ ] deactivate password of presenter's computer
 - [ ] Wifi password
 - [ ] extra electricity cable (multiple socket - "Mehrfachsteckdose")
@@ -106,7 +99,7 @@ For each task one (or two) person(s) should be responsible
 - [ ] garbage bag
 - [ ] print checklist and pin it in the location room: the helpers can see what needs to be done and can note down if tasks have been done
 - [ ] bring tape for sticking papers at the wall and cables on the floor
-- [ ] wordrobe for jackets, etc. (Garderobe")
+- [ ] wardrobe for jackets, etc. (Garderobe")
 - [ ] extra loudspeaker - if the build-in one does not work
 
 ## iDEAS:lab - Special
