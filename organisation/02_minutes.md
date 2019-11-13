@@ -72,30 +72,87 @@ How did you hear about Maptime?
 
 #### Quiz
 
-Satellitenbilder Quiz ()
+Is this image from a satellite, a microscope or a painting?
 
-Wie viele km über die Erde fliegt .... satellite.
+  [pick 3 images as 3 different questions from https://www.huffpost.com/entry/micro-or-macro-amazing-nature-images_n_4151127 for satellite and microscope, or https://www.theatlantic.com/technology/archive/2013/03/nasa-or-moma-play-the-game/274212/ for satellite and paintings]
+
+
+What is this image a composite of?
+
+  Source: https://www.copernicus.eu/en/media/images/alert-canada
+  Full image: https://www.copernicus.eu/sites/default/files/images/media/high/375402-Alert_Canada.jpg
+
+  - This is from a microscope.
+  - Composite of Sentinel-2 bands 9, 10, 11
+  - Composite of radar scans from 3 different months [TRUE]
+  - This is no remote sensing image, it is art!
+
+What is the average altitude of the Terra satellite's orbit above Earth's surface (i.e. mean sea level)?
+
+  - ca. 504km
+  - ca. 512km
+  - ca. 710km    [TRUE]
+  - ca. 1024km
 
 Which of the following organisations exist for real?
-- Association for the protction of the Shapefile
-- flat earth society
--
 
-What is the ESPG code of pseudo mercator?
+  - Flat earth society [TRUE]
+  - Association for the Protection of the Shapefile
+  - Humanitarian OpenStreetMap Team [TRUE]
+  - PostGIS Pirates
 
-What is the name of this projection?
+What is the ESPG code of the Pseudo Mercator projection?
 
-What qualties does this projection have?
-  - flachentreu usw.
+  - 3035
+  - 3857 [TRUE]
+  - 4326
+  - 4623
 
-Bis zu wieviel dateien kann einen Shapefile entstehen?
+What is the name of the projection used predominantly by National Geographic Society until 1998? (image from https://en.wikipedia.org/wiki/Robinson_projection)
 
-Wann wurde die erste Version PostGIS veröffentlicht?
-- schätzfrage
+  - Winkel tripel
+  - Robinson [TRUE]
+  - Mollweide
+  - Goode homolosine
+
+What qualities does the Universala Transverse Mercator coordinate system have?
+
+  - Angle-preserving [TRUE]
+  - Equal-area
+  - Equidistant
+  - True-direction
+
+
+How many files are mandatory for a complete Shapefile?
+
+  - 3 [TRUE]
+  - 4
+  - 5
+  - 6
+
+When was the first version of PostGIS made available to the public?
+
+  - schätzfrage
+(otherwise....)
+  - 1996
+  - 1998
+  - 2000
+  - 2001 [TRUE]
 
 After which city is the newest QGIS version named?
 
+  - Coruña [TRUE]
+  - Zanzibar
+  - Las Palmas
+  - Salzburg
+
 How long has the iDEAS:lab existed?
+
+  - 5 years
+  - 4 years
+  - 3 years [TRUE]
+  - 2 years
+
 
 
 # 2019-07-23
