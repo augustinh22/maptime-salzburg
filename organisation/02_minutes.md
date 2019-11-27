@@ -1,6 +1,107 @@
 This is a running list of minutes from organisational meetings and decisions, with most recent on top, and older minutes on the bottom. The idea is that this will eventually be much more collaborative with many people participating, so here, things can be documented for all to read. People's abbreviations should be documented and kept up to date in the file ```./01_organsation/01_people.md```
 
 ---
+# 2019-11-27
+
+Participants: JM, NJ, HA, EW, DK
+
+Location: at JM
+
+## Bastelstunde: 12.12 / GISMAS / Mapcraft
+
+  - Mapcrafting (Craft map)
+  - Ask to bring any old maps as material
+  - bring glue, scissors, colour pencils and pens, etc.
+  - bring jars
+  - bring things you can craft with
+  - bring laptops
+
+### Ideas
+
+  - printed globes
+  - printed globe with outline map to colour in
+  - Oragami out of maps
+  - printer in iDEAS:lab -- to print stuff to fold
+  - Greeting cards -- mapbox studio
+  - Sentinel-2 images (HA)
+    - postcards
+    - false colour composities on QGIS
+    - NDVI
+  - Style your own map (NJ) -- custom sprites/icons
+  - Mal nach Zahl -- map style
+  - Shapefile/Geopackage Chistbaumschmuck
+  - Martin -- Discrete Global grids?
+  - Geoid Christbaumkugel -- Salzteig
+  - 3D schlüsselanhänger (ideas from Peter? Are we allowed to use it? Give a brief introduction?)
+  - glitter for maps
+  - washi tape a few rolls
+  - glue/scissors/razor blades (Lehramt people?)
+  - textured paper
+  - Upcycling -- beer caps, plastic or glass bottles
+  - jars for candles -- paint, glue paper, whatever
+
+### plan
+
+  - JM
+    - buy drinks
+    - organise printer with Steffen
+    - buy craft stuff
+    - print globes, etc.
+    - add maptime logo to the globes we have already
+    - send info around
+  - HA
+    - organise printer with Steffen
+    - buy drinks
+    - Glühwein in slow cooker
+    - prepare opendata presentation to be useable right away
+      - create dynamic document with links for people to share
+      - naturalearth
+      - OSM ..
+      - Sentinel-2, Landsat-8
+  - EW
+    - Blog post
+      - laptop, old maps, scissors, glue, crafting materials, jars for candles, nice paper, drinks
+      - we will have some ideas, but come with your own ideas!
+      - Xmas cookies to share
+    - Easy oragami instructions
+      - envelopes
+  - NJ
+    - buy craft stuff
+    - Xmas clips on the projector or a fire, live cam from a satellite
+    - meetup event
+  - DK
+    - buy craft stuff
+    - way to make map bags for gifts
+    - Spotify playlist where everyone can add
+    - bring some small lights
+
+
+## Quiz Review
+
+- Ice breakers for stammtisch
+  - questions that need to be answered
+  - getting people to move
+  - places with standing room only
+- Excursions
+  - geocaching
+  - ZAMG
+  - SAGIS
+- Hackathon
+- Coworking
+- Basic R presenation (Lorena/Luuk)
+  - plotting stuff
+  - basics of the R Community
+  - shiny
+- QGIS event applied to other topics
+- Other spaces
+  - Raschofer -- projector, keg of beer, fries... need sound equipment
+
+## Going forward
+
+- January -- stammtisch
+- February event (R?)
+  - ask masters students when exams are planned to avoid conflicts in Febraury
+
 
 # 2019-11-06
 
