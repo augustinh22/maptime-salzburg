@@ -19,7 +19,7 @@ This is a checklist template for a Maptime event with presentations. It can be c
 - [ ] write blog post and push in [this repository](https://github.com/maptime/salzburg/) - if you do not have the permissions make a pull request and contact admin
 - [ ] go to lecture and invite students in person
 - [ ] Publish event on meetup.com
-- [ ] send invitations via all available channels - add short report about last event
+- send invitations via all available channels - add short report about last event
   - [ ] [Trafficon](https://www.trafficon.eu/)
   - [ ] [GIS Cluster](http://www.giscluster.at/) Salzburg
   - [ ] Salzburg Research
@@ -42,7 +42,7 @@ This is a checklist template for a Maptime event with presentations. It can be c
   - [ ] more companies - check [GISCluster](http://www.giscluster.at/)
   - [ ] Z_GIS staff
   - [ ] Z_GIS students
-  - [ ] Geography students
+  - [ ] Geography students + Studienvertretung (STV)
   - [ ] computer science students
   - [ ] computer science staff
   - [ ] FH students
@@ -77,7 +77,7 @@ For each task one (or two) person(s) should be responsible
 - [ ] display a sign that says that we take photos and publish them in the internet
 - [ ] additionally provide prominent badges or "chains" that people can wear if their photos shall **not** be published
 - [ ] maptime logo signs with arrows to get to room and WCs
-- [ ] main laptop for presentation
+- [ ] main laptop for presentation (maybe deactivate password)
 - [ ] test all presentations (PDF, Reveal JS, etc.)
 - [ ] check projector and connection to laptop
 - [ ] enough chairs
@@ -92,8 +92,6 @@ For each task one (or two) person(s) should be responsible
 - [ ] flyer and sticker
 - [ ] presenter device a.k.a. clicker (wireless, for switching to new slide)
 - [ ] name-tag sticker ("Hello, my name is ... ") and pen
-- [ ] deactivate password of presenter's computer
-- [ ] Wifi password
 - [ ] extra electricity cable (multiple socket - "Mehrfachsteckdose")
 - [ ] bring USB-stick for simple file transfer
 - [ ] garbage bag
@@ -104,7 +102,6 @@ For each task one (or two) person(s) should be responsible
 
 ## iDEAS:lab - Special
 
-- [ ] make loud speaker silent (makes annoying noise)
 - [ ] bring transportation cart ("Wagerl" / "Wägelchen")
 - [ ] bring piece of cloth if some drink gets spilled ("Lappen" / "Fetzen")
 
@@ -121,6 +118,12 @@ For each task one (or two) person(s) should be responsible
 - [ ] define region/task to map
 - [ ] check if firewall blocks OSM or Hot Tasking Manager
 - [ ] ask for helpers from humanitarian research group at Z_GIS
+
+## Art&Craft Special
+
+- [ ] Printer + Laptop that can connect
+- [ ] Szissors and Glue (mark them to identify them later on ... )
+
 
 ## Video-Recording
 
