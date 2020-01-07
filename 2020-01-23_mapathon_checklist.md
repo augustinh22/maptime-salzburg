@@ -1,12 +1,8 @@
-# Checklist Event
-
-This is a checklist template for a Maptime event with presentations. It can be copied and edited. So everybody sees what is happening.
-
 ## The Basics
 
-- [ ] organize location
-- [ ] set date and time
-- [ ] define a theme (e.g. OpenStreetMap, remote sensing, spatial statistics, ... )
+- [x] organize location
+- [x] set date and time
+- [x] define a theme (e.g. OpenStreetMap, remote sensing, spatial statistics, ... )
 - [ ] find presenters
 - [ ] discuss with the presenters what they will present and how the presentations fit together, make sure there is no overlap
 - [ ] find moderators to introduce presenters and take care of time-keeping
@@ -16,18 +12,18 @@ This is a checklist template for a Maptime event with presentations. It can be c
 
 ## Announce the event
 
-- [ ] write blog post and push in [this repository](https://github.com/maptime/salzburg/) - if you do not have the permissions make a pull request and contact admin
+- [x] write blog post and push in [this repository](https://github.com/maptime/salzburg/) - if you do not have the permissions make a pull request and contact admin
 - [ ] go to lecture and invite students in person
-- [ ] Publish event on meetup.com
+- [x] Publish event on meetup.com
 - send invitations via all available channels - add short report about last event
   - [ ] [Trafficon](https://www.trafficon.eu/)
   - [ ] Salzburg Research
   - [ ] iSpace
   - [ ] [eoVision](http://www.eovision.at/)
   - [ ] [SpatialServices](https://www.spatial-services.com/)
-  - [ ] Austrian OpenStreetMap [mailing list](https://lists.openstreetmap.org/listinfo/talk-at)
+  - [x] Austrian OpenStreetMap [mailing list](https://lists.openstreetmap.org/listinfo/talk-at)
   - [ ] Twitter Post
-  - [ ] Maptime Salzburg [mailing list](https://lists.fossgis.de/mailman/listinfo/maptime-salzburg)
+  - [x] Maptime Salzburg [mailing list](https://lists.fossgis.de/mailman/listinfo/maptime-salzburg)
   - [ ] [Icra](http://www.icra.at/)
   - [ ] [SIR - Salzburger Institut für Raumordnung und Wohnen ](https://www.salzburg.gv.at/dienststellen/sonstige-einrichtungen/sir/)
   - [ ] [Projekt Kompetenz](http://www.projektkompetenz.eu/)
@@ -42,20 +38,8 @@ This is a checklist template for a Maptime event with presentations. It can be c
   - [ ] FH students
   - [ ] individual persons from private network
   - [ ] [GeoComPass](https://www.geocompass.at)
-  - [ ] add event in OSM calender:
-    - edit [this website](https://wiki.openstreetmap.org/wiki/Template:Calendar)
-    - add this snippet and adapt it:
+  - [x] add event in OSM calender:
 
-```
-{{Calendar/event
-| type = mapevent
-| date = 2019-09-18
-| name = Maptime Salzburg Mapathon
-| url = http://maptime.io/salzburg/event/2019/09/18/mapathon-trafficon/
-| city = Salzburg
-| country = Austria
-}}
-```
 
 ## Responsible Persons
 
@@ -102,34 +86,14 @@ For each task one (or two) person(s) should be responsible
 
 ## Mapathon - Special
 
-- [Checklist](http://www.missingmaps.org/host/)
-- [Information](http://www.missingmaps.org/assets/downloads/mapathon-materials/english/How_to_Host_a_Mapathon_EN.pdf)
-- [Video Playlist](https://www.youtube.com/playlist?list=PLb9506_-6FMHULD9iDUAh-4qpxKdVspnD)
 
-- [ ] [Register Mapathon](https://docs.google.com/forms/d/e/1FAIpQLScdvsMHLor8mrDrHa-BQs2XzFb96vIrx3u--LHXWd1g7RncPg/viewform)
+- [x] [Register Mapathon](https://docs.google.com/forms/d/e/1FAIpQLScdvsMHLor8mrDrHa-BQs2XzFb96vIrx3u--LHXWd1g7RncPg/viewform)
 - [ ] print cheat sheet with shortcuts for JOSM and iD
 - [ ] Tape extension cords to the floor for safety
 - [ ] bring extra mice ("mouses"), because many people will forget theirs
 - [ ] define region/task to map
 - [ ] check if firewall blocks OSM or Hot Tasking Manager
 - [ ] ask for helpers from humanitarian research group at Z_GIS
-
-## Art&Craft Special
-
-- [ ] Printer + Laptop that can connect
-- [ ] Szissors and Glue (mark them to identify them later on ... )
-
-
-## Video-Recording
-
-- [ ] camera + full battery
-- [ ] camera memory card
-- [ ] camera tripod
-- [ ] camera electricity cable
-- [ ] microphone (with battery)
-- [ ] screencast of presenter's laptop
-- [ ] mouse with halo around cursor
-- [ ] videos shall not contain any copyright protected images or data, otherwise it might not be possible to upload them
 
 ## During event
 
