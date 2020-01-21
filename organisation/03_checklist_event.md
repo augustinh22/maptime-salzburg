@@ -113,6 +113,8 @@ For each task one (or two) person(s) should be responsible
 - [ ] define region/task to map
 - [ ] check if firewall blocks OSM or Hot Tasking Manager
 - [ ] ask for helpers from humanitarian research group at Z_GIS
+- [ ] Give intro into OSM Editor
+
 
 ## Art&Craft Special
 
